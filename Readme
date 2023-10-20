@@ -1,0 +1,4 @@
+Credit Sxore Classification with BNN, GNB and NN.
+Preprocessing after https://www.kaggle.com/code/sayamkumar/credit-score-classification.
+Data from https://www.kaggle.com/datasets/parisrohan/credit-score-classification.
+BNN code and implementation from https://github.com/Harry24k/bayesian-neural-network-pytorch/blob/master/demos/Bayesian%20Neural%20Network%20Classification.ipynb.
